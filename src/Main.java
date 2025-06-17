@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner;//import scanner
 //class EntryKiosk
 //main()
 //num age
